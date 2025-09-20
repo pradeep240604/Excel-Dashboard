@@ -1,9 +1,11 @@
-📊 Call Center Report Dashboard
-Overview
+📊**Call Center Report Dashboard**
 
-This project is an interactive Excel Dashboard that visualizes key metrics for call center operations. It provides management with real-time insights into performance, productivity, and customer satisfaction, helping in data-driven decision-making.
 
-Features
+**Overview**
+
+- This project is an interactive Excel Dashboard that visualizes key metrics for call center operations. It provides management with real-time insights into performance, productivity, and customer satisfaction, helping in data-driven decision-making.
+
+**Features**
 
 📞 Call Volume Analysis – inbound, outbound, missed calls
 
@@ -15,39 +17,40 @@ Features
 
 📈 Dynamic Visuals – charts, slicers, and filters for interactive analysis
 
-File Structure
-call_center_report-dashboard-1.xlsx   # Excel file containing the dashboard
+**Requirements**
 
-Requirements
+- Microsoft Excel (2016 or later recommended)
 
-Microsoft Excel (2016 or later recommended)
+- Data refresh enabled through pivot tables and slicers
 
-Data refresh enabled through pivot tables and slicers
+**How to Use**
 
-How to Use
+ - Open the file in Excel.
 
-Open the file in Excel.
+ - Navigate to the Dashboard sheet.
 
-Navigate to the Dashboard sheet.
+ - Use slicers/filters to explore different time ranges, agents, and call types.
 
-Use slicers/filters to explore different time ranges, agents, and call types.
+ - Review KPIs and charts for insights.
 
-Review KPIs and charts for insights.
+**Insights Provided**
 
-Insights Provided
+ - Peak call hours and days
 
-Peak call hours and days
+ - Top and bottom-performing agents
 
-Top and bottom-performing agents
+ - Trends in call resolution times
 
-Trends in call resolution times
+ - Customer satisfaction levels
 
-Customer satisfaction levels
+ - Future Enhancements
 
-Future Enhancements
+ - Integration with live call center data sources (e.g., CRM, VoIP logs)
 
-Integration with live call center data sources (e.g., CRM, VoIP logs)
+ - Automated daily refresh with Power Query
 
-Automated daily refresh with Power Query
-
-Exportable reports in PDF/PowerPoint
+ - Exportable reports in PDF/PowerPoint
+-----------------------------------------------------------------------------------------------
+- Author: Sai Pradeep Kala
+- GitHub Username: pradeep240604
+- Email: saipradeep2464@gmail.com
